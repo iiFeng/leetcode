@@ -1,8 +1,4 @@
-package test;
-
 import org.junit.Test;
-
-import solution.TwoSum;
 
 import static org.junit.Assert.assertArrayEquals;
 

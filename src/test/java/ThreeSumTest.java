@@ -1,7 +1,4 @@
-package test;
-
 import org.junit.Test;
-import solution.ThreeSum;
 
 import java.util.ArrayList;
 import java.util.Arrays;
